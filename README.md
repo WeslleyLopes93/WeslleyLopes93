@@ -3,4 +3,4 @@
 </p>
 <div>
     <a href="https://github.com/Weslleylopes93">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aweslleylopes93&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=catppuccin_mocha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleylopes93&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=catppuccin_mocha">
