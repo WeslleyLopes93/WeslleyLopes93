@@ -10,4 +10,4 @@
     </div>
 <div>
     <a href="https://github.com/Weslleylopes93">
-    <img height="100em" src="https://skillicons.dev/icons?i=py,vscode,windows,ps,anaconda">
+    <img height="80em" src="https://skillicons.dev/icons?i=py,vscode,windows,ps,anaconda">
