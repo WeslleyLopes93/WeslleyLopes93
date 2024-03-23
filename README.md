@@ -9,5 +9,6 @@
     <img height="100em" src="https://github-readme-stats.vercel.app/api?username=weslleylopes93&show_icons=false&hide=contribs,prs&cache_seconds=86400&theme=catppuccin_mocha">
     </div>
 <div>
+    <p align="center">
     <a href="https://github.com/Weslleylopes93">
     <img height="30em" src="https://skillicons.dev/icons?i=py,vscode,windows,ps,anaconda">
